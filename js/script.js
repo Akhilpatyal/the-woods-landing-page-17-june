@@ -81,7 +81,7 @@
 			touchDrag:false,
 			autoHeight: true,
 			autoplay: true,
-			autoplayTimeout:10000,
+			autoplayTimeout:5000,
 			navText: [ '<span class="flaticon-back"></span>', '<span class="flaticon-next-1"></span>' ],
 			responsive:{
 				0:{
@@ -176,6 +176,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: true,
+			autoplayTimeout:5000,
 			navText: [ '<span class="flaticon-back"></span>', '<span class="flaticon-next-1"></span>' ],
 			responsive:{
 				0:{
