@@ -4089,7 +4089,7 @@ img{
 .process-block .inner-box{
 	position: relative;
 	text-align: center;
-	padding: 40px 80px;
+	padding: 40px 18px;
 	border-radius: 30px;
 	overflow: hidden;
 	border:2px solid #2a5036;
@@ -10084,4 +10084,8 @@ img{
 }
 .owl-carousel .owl-item img {
     border-radius: 14px;
+}
+.backImg {
+    border-radius: 10px;
+    filter: brightness(0.9);
 }
