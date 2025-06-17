@@ -10082,3 +10082,6 @@ img{
 .owl-nav{
 	display: none!important;
 }
+.owl-carousel .owl-item img {
+    border-radius: 14px;
+}
